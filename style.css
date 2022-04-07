@@ -1,0 +1,14 @@
+body {
+    background-size: cover;
+}
+#object_name {
+    width: 300px;
+}
+.heading {
+    margin: 0px;
+    width: 100%;
+    font-size: 23px;
+}
+#start, #number_of_objects, #status {
+    font-size: 18px;
+}
