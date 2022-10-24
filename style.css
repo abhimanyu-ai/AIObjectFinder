@@ -1,0 +1,36 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+.header{
+    width: 100%;
+    margin: 0px;
+    font-size: large;
+}
+.input_class{
+    margin: 5px;
+    border-radius: 5px;
+    width: 20%;
+    color: white;
+    background-color:chocolate;
+    opacity: 0.9;
+    border: 0px;
+}
+.object_name_label{
+    font-weight: bold;
+    font-size: 15px;
+}
+canvas{
+    border-radius: 10px;
+    background-color: black;
+    box-shadow: 7px 7px 7px black;
+}
+p{
+    color: black;
+    margin-bottom: 0px;
+    font-size: medium;
+}
+#reload {
+    margin-top: 370px;
+    color:white
+}
